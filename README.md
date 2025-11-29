@@ -15,6 +15,8 @@ Un token es una representación digital de un activo o utilidad concreta. Este a
 
 5. ◼️ **TECLADO**
 es un dispositivo, ya sea físico o virtual, que funciona como un sistema de entrada para introducir información en un aparato electrónico o musical, mediante un conjunto de teclas que al ser presionadas envían una señal para ejecutar una función.
+6. ✌️**Aprendizaje por transferencia**
+El aprendizaje por transferencia es una técnica de machine learning en la que los conocimientos adquiridos a través de una tarea o conjunto de datos se utilizan para mejorar el rendimiento del modelo en otra tarea relacionada o en un conjunto de datos diferente.  
 
 6. ✌️ **Aprendizaje por transferencia**
   El aprendizaje por transferencia es una técnica de machine learning en la que los conocimientos adquiridos a través de una tarea o conjunto de datos se utilizan para mejorar el rendimiento del modelo en otra tarea relacionada o en un conjunto de datos diferente. 
